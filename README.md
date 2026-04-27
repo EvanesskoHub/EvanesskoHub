@@ -1,16 +1,24 @@
-## Hi there 👋
+###  Привет! Меня зовут Наталья
 
-<!--
-**EvanesskoHub/EvanesskoHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я начинающий Python-разработчик.  
+Изучаю бэкенд-разработку, пишу Telegram-ботов, работаю с базами данных и создаю пет-проекты.
 
-Here are some ideas to get you started:
+###  Мой стек
+- **Языки:** Python 3, SQL
+- **Фреймворки:** Aiogram, Django, Flask
+- **Базы данных:** SQLite, PostgreSQL
+- **Инструменты:** Git, GitHub, VS Code / PyCharm, Linux (базово)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Пет-проекты
+| Проект | Описание | Стек |
+|--------|----------|------|
+| [Snarry Archive Bot](#) | Архивный бот для поиска фанфиков с парсингом метаданных | Aiogram, SQLite, FTS |
+| Название проекта 2 | Краткое описание | Технологии |
+| Название проекта 3 | Краткое описание | Технологии |
+
+### GitHub-статистика
+*(появится, когда начну пушить)*
+
+### Контакты
+- Email: zupinka2004@mail.ru
+- Telegram: @Evanessko
