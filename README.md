@@ -1,4 +1,4 @@
-### 👋 Hi, I'm [ТВОЁ ИМЯ]
+### 👋 Hi, I'm Natalie
 
 I'm a beginner Python developer.  
 I study backend development, build Telegram bots, work with databases, and create pet projects.
@@ -20,7 +20,7 @@ I study backend development, build Telegram bots, work with databases, and creat
 
 ---
 
-### 👋 Привет, я [ТВОЁ ИМЯ]
+### 👋 Привет, я Наталья
 
 Начинающий Python-разработчик.  
 Изучаю бэкенд, пишу Telegram-ботов, работаю с базами данных и делаю пет-проекты.
