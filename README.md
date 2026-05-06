@@ -36,6 +36,7 @@ I study backend development, build Telegram bots, work with databases, and creat
 | Проект | Описание | Стек |
 |--------|----------|------|
 | [Fanfics Archive Bot](https://github.com/EvanesskoHub/fanfics-archive-bot) | Архивный бот для поиска фанфиков с парсингом метаданных | Aiogram, SQLite, FTS |
+| [TG AutoPoster](https://github.com/EvanesskoHub/tg-autoposter) | Бот для автопостинга статей с парсингом метаданных | Aiogram, Telegraph API, SQLite |
 
 ### 📫 Контакты
 - Email: [zupinka2004@mail.ru](mailto:zupinka2004@mail.ru)
